@@ -1,11 +1,11 @@
 {
-  "name": "telnet-client",
+  "name": "@hwc/telnet-client",
   "description": "A simple node.js telnet client",
   "author": {
-    "name": "Mario Kozjak",
-    "email": "kozjakm1@gmail.com"
+    "name": "hwc",
+    "email": "wensonhuang@gmail.com"
   },
-  "version": "1.4.5",
+  "version": "1.0.0",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "engine": "node >= 6.9.1",
